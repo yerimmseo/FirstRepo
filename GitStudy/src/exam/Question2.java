@@ -8,5 +8,6 @@ public class Question2 {
 		System.out.println("Random!!");
 		
 		System.out.println("branchA에서 commit");
+		System.out.println("branchA에서 commit2");
 	}
 }
