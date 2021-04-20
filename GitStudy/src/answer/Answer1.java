@@ -6,5 +6,4 @@ public class Answer1 {
 		System.out.println("Answer1");
 		System.out.println("Answer1");
 	}
-
 }
