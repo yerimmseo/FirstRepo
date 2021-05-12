@@ -1,7 +1,7 @@
 package theory;
 import java.io.File;
 
-public class E02_FileIO {
+public class E02_File {
 	
 	/*
 		# java.util.File
