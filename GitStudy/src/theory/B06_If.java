@@ -47,13 +47,3 @@ public class B06_If {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-

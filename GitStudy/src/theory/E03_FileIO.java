@@ -106,16 +106,3 @@ public class E03_FileIO {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

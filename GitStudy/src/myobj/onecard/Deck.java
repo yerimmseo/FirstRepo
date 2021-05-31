@@ -19,7 +19,6 @@ public class Deck {
 		deck.add(new Card(Card.JOKER_SHAPE, Card.JOKER));
 		Collections.shuffle(deck);
 		//System.out.println(deck);
-		
 	}
 		
 	public Card draw() {

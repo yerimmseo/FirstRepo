@@ -75,9 +75,6 @@ public class C02_OOP {
 		c1.Eat();
 		System.out.printf("포만감 : %.2f, 몸무게 : %.1fkg\n", c1.full, c1.kilogram);
 		
-
-		
-		
 	}
 	
 }
@@ -105,6 +102,3 @@ class Apple {
 		calorie -= 10;
 	}
 }
-
-
-

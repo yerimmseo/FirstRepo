@@ -1,6 +1,7 @@
 package myobj.onecard;
 
 public class Card {
+	
 	final public static Rank ACE = new Rank(0, "A");
 	final public static Rank TWO = new Rank(1, "2");
 	final public static Rank THREE = new Rank(2, "3");

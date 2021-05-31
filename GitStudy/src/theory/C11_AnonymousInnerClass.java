@@ -172,9 +172,3 @@ class VendingMachine extends Kickable {
 		System.out.println("자판기를 걷어찼더니 음료수가 하나 나왔습니다.");
 	}
 }
-
-
-
-
-
-

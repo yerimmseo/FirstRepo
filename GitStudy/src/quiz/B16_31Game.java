@@ -72,7 +72,7 @@ public class B16_31Game {
 		}
 		
 		System.out.println("게임이 끝났습니다!");
-
 		
 	}
+	
 }

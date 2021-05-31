@@ -93,14 +93,5 @@ public class A05_Print {
 		System.out.printf("Æò±Õ Á¡¼ö : %.2f\n", avg);
 		System.out.printf("Æò±Õ Á¡¼ö : %f\n", avg);
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-

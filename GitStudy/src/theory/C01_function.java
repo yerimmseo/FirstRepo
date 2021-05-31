@@ -48,7 +48,6 @@ public class C01_function {
 		return "필요한 바구니의 개수는 " + result + "개 입니다.";
 	}
 	
-	
 	public static void print_rabbit() {
 		System.out.println(" /)/)");
 		System.out.println("( ..)");

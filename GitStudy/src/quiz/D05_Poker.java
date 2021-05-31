@@ -186,14 +186,3 @@ class Card {
 		System.out.println(card_list);
 	}
 }
-
-
-
-
-
-
-
-
-
-
-

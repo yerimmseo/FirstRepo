@@ -3,6 +3,7 @@ package myobj.school;
 import java.util.Random;
 
 public class Student2 {
+	
 	private String name;
 	private int kor;
 	private int eng;
@@ -41,4 +42,5 @@ public class Student2 {
 //		return str;
 		return String.format("%s / %3d\t/ %.2f", name, getTotal(), getAvg());
 	}
+	
 }

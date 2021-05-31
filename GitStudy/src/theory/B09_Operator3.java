@@ -23,12 +23,3 @@ public class B09_Operator3 {
 	}
 
 }
-
-
-
-
-
-
-
-
-

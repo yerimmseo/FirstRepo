@@ -81,17 +81,6 @@ public class B17_Array {
 		System.out.println(msg3[0]);
 		System.out.println(msg3[1]);
 		
-		
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-

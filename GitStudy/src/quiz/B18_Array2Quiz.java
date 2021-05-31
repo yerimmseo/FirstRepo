@@ -119,5 +119,4 @@ public class B18_Array2Quiz {
 //		System.out.printf("ÃÑÇÕ: %d Æò±Õ: %.2f\n", sum, avg);
 	}
 	
-	
 }

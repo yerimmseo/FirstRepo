@@ -228,5 +228,3 @@ public class C07_PirateGame {
 	}
 	
 }
-
-

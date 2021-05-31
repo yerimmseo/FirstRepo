@@ -17,7 +17,6 @@ public class MachineLearningStudent extends Student {
 	
 	@Override
 	public void printGradeCard() {
-		
 		System.out.printf("ÇĞ¹ø\tÀÌ¸§\t%s\t%s\t%s\t%s\t%s\tÃÑÁ¡\tÆò±Õ\n", subject_name[0],
 				subject_name[1], subject_name[2], subject_name[3], subject_name[4]);
 		

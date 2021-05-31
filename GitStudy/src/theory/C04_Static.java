@@ -35,7 +35,6 @@ public class C04_Static {
 		System.out.println(lamp03.width);
 		System.out.println(lamp04.width);
 		
-		
 	}
 }
 
@@ -62,9 +61,4 @@ class Lamp {
 
 
 //	myobj 패키지에 static 변수를 포함한 클래스를 하나 정의 해보세요
-
-
-
-
-
 

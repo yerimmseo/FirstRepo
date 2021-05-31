@@ -73,11 +73,3 @@ public class D11_DiscountDay {
 		printAllEventDays(year);
 	}
 }
-
-
-
-
-
-
-
-

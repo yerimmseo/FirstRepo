@@ -65,18 +65,3 @@ public class D03_WrapperClass {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

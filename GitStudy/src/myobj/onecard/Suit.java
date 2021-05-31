@@ -1,6 +1,7 @@
 package myobj.onecard;
 
 public class Suit {
+	
 	int value;
 	char shape;
 	String korName;

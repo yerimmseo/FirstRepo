@@ -61,5 +61,7 @@ public class E01_JavaIO {
 				if (fout != null) fout.close();
 			} catch (IOException e) {}
 		}
+		
 	}
+	
 }

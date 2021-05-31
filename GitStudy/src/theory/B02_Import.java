@@ -32,6 +32,6 @@ public class B02_Import {
 		
 		//Scanner sc = new Scanner(System.in); // Ctrl + Shift + O
 		
-		
 	}
+	
 }

@@ -17,4 +17,5 @@ public class Wettissue extends Item{
 		new Wettissue("노브랜드", 1000).info();
 		new Wettissue("아이좋아", 1500).use();
 	}
+	
 }

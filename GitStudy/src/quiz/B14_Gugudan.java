@@ -43,7 +43,6 @@ public class B14_Gugudan {
 			System.out.println();
 		}
 		
-		
 	}
 	
 }

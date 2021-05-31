@@ -52,11 +52,3 @@ public class B15_WhileBasicQuiz {
 	}
 
 }
-
-
-
-
-
-
-
-

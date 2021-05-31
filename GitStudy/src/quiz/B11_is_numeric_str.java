@@ -24,7 +24,6 @@ public class B11_is_numeric_str {
 			result = 0;
 			break;
 		}
-		
 		System.out.println(result);
 		
 	}

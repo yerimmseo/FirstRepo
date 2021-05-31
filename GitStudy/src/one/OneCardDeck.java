@@ -110,15 +110,5 @@ public class OneCardDeck {
 		}
 		return cards.remove(0);
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-
-

@@ -50,14 +50,5 @@ public class Inventory {
 //		inven1.put(new ToothBrush("리콜라", 3000));
 //		inven1.put(new Wettissue("리콜라", 3000));
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-

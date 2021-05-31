@@ -60,9 +60,7 @@ public class B17_CountAlphabet {
 				System.out.printf("[%c]는 %d번 등장했습니다.\n", 'A' + i, count[i]);
 			}
 		}
-		
-		
-		
+				
 	}
 
 }

@@ -57,13 +57,7 @@ public class E04_StreamToChar {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		
 	}
+	
 }
-
-
-
-
-
-
-
-

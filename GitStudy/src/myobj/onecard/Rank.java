@@ -1,6 +1,7 @@
 package myobj.onecard;
 
 public class Rank {
+	
 	int value;
 	String name;
 	
@@ -21,4 +22,5 @@ public class Rank {
 	public String toString() {
 		return name;
 	}
+	
 }

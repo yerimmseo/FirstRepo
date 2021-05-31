@@ -94,8 +94,7 @@ public class B16_GuessNumberGame {
 			
 		}
 		System.out.println("게임 종료.");
-		System.out.println("정답은 [" + ranNum + "] 였습니다!");
-		
+		System.out.println("정답은 [" + ranNum + "] 였습니다!");	
 
 	}
 

@@ -78,13 +78,5 @@ public class D01_ArrayList {
 		Arrays.sort(lottos);
 		System.out.println(Arrays.toString(lottos));
 	}
+	
 }
-
-
-
-
-
-
-
-
-

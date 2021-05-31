@@ -37,9 +37,3 @@ public class B15_Count369Ver3 {
 		}
 	}
 }
-
-
-
-
-
-

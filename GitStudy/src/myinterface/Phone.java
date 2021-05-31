@@ -8,7 +8,3 @@ public interface Phone {
 	void internet();
 	
 }
-
-
-
-

@@ -39,16 +39,6 @@ public class B15_Count369Ver2 {
 //		System.out.println(testValue % 1000 / 100);
 //		System.out.println(testValue % 100 / 10);
 //		System.out.println(testValue % 10);
-
-		
 		
 	}
 }
-
-
-
-
-
-
-
-

@@ -31,4 +31,5 @@ public class NetworkStudent extends Student {
 		System.out.println("--------------------------------------------------------------");
 		
 	}
+	
 }

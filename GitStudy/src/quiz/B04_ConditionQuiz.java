@@ -63,14 +63,3 @@ public class B04_ConditionQuiz {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-

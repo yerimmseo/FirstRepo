@@ -76,14 +76,5 @@ public class B01_Operator1 {
 		System.out.println(8 >> 2); // SHIFT
 		
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-

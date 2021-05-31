@@ -31,8 +31,6 @@ public class B14_InnerLoop {
 			}
 		}
 		
-		
-		
 	}
 
 }

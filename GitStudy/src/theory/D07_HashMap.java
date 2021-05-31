@@ -88,20 +88,7 @@ public class D07_HashMap {
 			
 			System.out.println(key + "=" + value);
 		}
+		
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

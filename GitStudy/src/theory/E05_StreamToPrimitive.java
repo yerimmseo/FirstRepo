@@ -76,14 +76,3 @@ public class E05_StreamToPrimitive {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-

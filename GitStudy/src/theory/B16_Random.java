@@ -55,6 +55,6 @@ public class B16_Random {
 		// - Random 클래스는 원하는 타입의 랜덤 값을 쉽게 얻을 수 있다
 		System.out.println(ran.nextBoolean() ? "앞" : "뒤");
 		
-		
 	}
+	
 }

@@ -106,18 +106,3 @@ public class D02_JiphapQuiz<T> {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

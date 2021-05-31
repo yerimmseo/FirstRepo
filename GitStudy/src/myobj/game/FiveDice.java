@@ -131,22 +131,3 @@ public class FiveDice {
 	
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

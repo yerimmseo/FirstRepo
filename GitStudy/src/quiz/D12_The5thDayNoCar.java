@@ -152,9 +152,3 @@ public class D12_The5thDayNoCar {
 		
 	}
 }
-
-
-
-
-
-

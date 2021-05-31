@@ -34,7 +34,6 @@ public class B13_StringBuilder {
 		System.out.println("제작에 걸린 시간1 : " + taken_time + "밀리초");
 		
 		
-		
 		// 똑같은 기능을 하더라도 훨씬 빠르게 문자열이 생성된다.
 		start_time = System.currentTimeMillis();
 		

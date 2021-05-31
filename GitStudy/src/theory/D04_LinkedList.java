@@ -88,15 +88,5 @@ public class D04_LinkedList {
 		endTime = System.currentTimeMillis();
 		System.out.println((endTime - startTime) + "ms");
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-
-

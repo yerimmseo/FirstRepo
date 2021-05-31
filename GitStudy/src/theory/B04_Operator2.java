@@ -52,18 +52,6 @@ public class B04_Operator2 {
 				+ (x % 3 != 0 && y % 3 != 0 && z % 3 != 0));
 		System.out.println(!(x % 3 == 0 || y % 3 == 0 || z % 3 == 0));
 		
-		
-		
-		
 	}
 	
 }
-
-
-
-
-
-
-
-
-

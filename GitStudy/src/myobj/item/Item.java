@@ -5,7 +5,6 @@ package myobj.item;
 	※ Item클래스는 수정하지 말것
 */
 
-
 abstract public class Item {
 
 	String name;
@@ -24,4 +23,3 @@ abstract public class Item {
 	
 	abstract public void use();
 }
-

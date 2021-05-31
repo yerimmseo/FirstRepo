@@ -25,13 +25,3 @@ public class B07_charAt {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-

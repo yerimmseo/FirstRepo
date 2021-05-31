@@ -46,17 +46,6 @@ public class B15_While {
 			System.out.println(sc2.nextInt());
 		}
 		
-		
-		
 	}
 	
 }
-
-
-
-
-
-
-
-
-

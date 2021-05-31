@@ -9,7 +9,6 @@ public class Brick {
 	String color;
 	int[] position;
 	
-	
 	static void Brick(String material) {
 		Brick.material = material;
 	}

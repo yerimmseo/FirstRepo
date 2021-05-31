@@ -19,7 +19,6 @@ public class B11_is_contain_alpha {
 			}
 		}
 		System.out.println(word);
-		
 	}
 	
 }

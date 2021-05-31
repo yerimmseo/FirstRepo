@@ -19,7 +19,6 @@ public class B11_Palindrome2 {
 			}
 			
 		}
-		
 		System.out.println(palindrome ? "회문입니다." : "회문이 아닙니다.");
 		
 	}

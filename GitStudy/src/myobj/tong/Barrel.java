@@ -31,7 +31,6 @@ public class Barrel {
 		
 		forked[slot] = true;
 		return true;
-		
 	}
 	
 }

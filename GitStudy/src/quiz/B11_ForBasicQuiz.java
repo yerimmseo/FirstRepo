@@ -67,7 +67,6 @@ public class B11_ForBasicQuiz {
 				System.out.print(i + " ");
 			}
 		}
-		
 	}
 	
 }

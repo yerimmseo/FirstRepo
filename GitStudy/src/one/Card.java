@@ -86,13 +86,5 @@ public class Card {
 	public String toString() {
 		return String.format("[%c%s]", this.suit, this.rank);
 	}
+	
 }
-
-
-
-
-
-
-
-
-

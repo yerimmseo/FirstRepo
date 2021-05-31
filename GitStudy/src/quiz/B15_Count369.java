@@ -60,15 +60,7 @@ public class B15_Count369 {
 			System.out.println();
 			
 		}
-		System.out.println("ÃÑ ¹Ú¼ö È½¼ö : " + count + "È¸");
-		
-		
-		
-		
-
-		
-		
-		
+		System.out.println("ÃÑ ¹Ú¼ö È½¼ö : " + count + "È¸");		
 		
 	}
 	

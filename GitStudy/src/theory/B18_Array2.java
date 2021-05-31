@@ -94,9 +94,5 @@ public class B18_Array2 {
 			}
 		}
 		
-		
-		
-		
-		
 	}
 }

@@ -16,3 +16,4 @@ public class B16_TempPassword2 {
 		System.out.println();
 	}
 }
+

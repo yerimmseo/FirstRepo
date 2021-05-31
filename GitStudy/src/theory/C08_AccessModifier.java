@@ -3,7 +3,6 @@ import myobj.Coffee;
 import myobj.DiffPackage;
 
 public class C08_AccessModifier {
-
 	/*
 		# 접근 제어자 (Access Modifier)
 		- 다른 클래스가 해당 클래스의 자원을 사용하려고 할 때 어디까지 허용할지를 설정한다

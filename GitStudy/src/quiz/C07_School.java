@@ -176,6 +176,3 @@ public class C07_School {
 //		System.out.println("ЦђБе:" + Arrays.toString(avg));
 //	}
 //}
-
-
-

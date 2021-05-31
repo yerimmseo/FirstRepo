@@ -81,7 +81,6 @@ public class PlayGame {
 				System.out.println("올바른 인덱스가 아닙니다 다시 입력해주세요");
 			}
 			
-			
 		}
 	}
 	
@@ -213,9 +212,6 @@ public class PlayGame {
 		System.out.print("플레이할 플레이어 수 >> ");
 		int num = sc.nextInt();
 		game.start(num);
-		
-
-		
 		
 	}
 

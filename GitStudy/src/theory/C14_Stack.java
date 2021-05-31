@@ -29,5 +29,3 @@ public class C14_Stack {
 		System.out.println("hi (c)");
 	}
 }
-
-

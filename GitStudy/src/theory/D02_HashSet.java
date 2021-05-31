@@ -161,24 +161,5 @@ public class D02_HashSet {
 		Set<String> subset2 = subset;
 		System.out.println(subset2);
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

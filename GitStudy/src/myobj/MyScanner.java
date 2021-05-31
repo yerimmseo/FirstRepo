@@ -38,4 +38,5 @@ public class MyScanner {
 		System.out.print(message);
 		return sc.nextLine();
 	}
+	
 }

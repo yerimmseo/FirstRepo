@@ -123,24 +123,6 @@ public class D11_Calendar {
 		Calendar hawaii = Calendar.getInstance(TimeZone.getTimeZone("US/Hawaii"));
 		System.out.println("뉴욕 현재 시간: " + hawaii.get(Calendar.HOUR));
 		
-		
-		
-		
-		
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

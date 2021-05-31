@@ -119,24 +119,3 @@ class UserRecord implements Comparable<UserRecord>, Serializable {
 				this.user_try - o.user_try : this.record - o.record;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

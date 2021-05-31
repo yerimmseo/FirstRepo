@@ -46,9 +46,3 @@ public class B14_GCD {
 	}
 	
 }
-
-
-
-
-
-

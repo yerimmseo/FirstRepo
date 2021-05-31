@@ -17,4 +17,5 @@ public class Tofu extends Item {
 		new Tofu("풀무원", 3000).info();
 		new Tofu("순", 300).use();
 	}
+	
 }

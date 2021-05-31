@@ -23,9 +23,7 @@ public class B11_Palindrome {
 			}
 			
 		}
-		
-		System.out.printf("[%s]의 결과는 %s입니다.\n", word, result);
-		
+		System.out.printf("[%s]의 결과는 %s입니다.\n", word, result);	
 	}
 
 }

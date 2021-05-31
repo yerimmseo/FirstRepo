@@ -6,7 +6,6 @@ public class Cat {
 	public double full;
 	public String name;
 	public String color;
-
 	
 	public void Eat() {
 		kilogram += 0.3;
@@ -35,4 +34,5 @@ public class Cat {
 		this.full = full;
 		this.kilogram = kilogram;
 	}
+	
 }

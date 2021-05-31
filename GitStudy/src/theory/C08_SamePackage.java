@@ -12,5 +12,3 @@ public class C08_SamePackage {
 	protected void protected_method() {}
 	private void private_method() {}
 }
-
-

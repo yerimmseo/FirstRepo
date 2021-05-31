@@ -195,18 +195,3 @@ public class E05_GuessNumberGame {
 
 		
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

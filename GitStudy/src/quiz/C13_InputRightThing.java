@@ -76,17 +76,3 @@ public class C13_InputRightThing {
 		return num;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

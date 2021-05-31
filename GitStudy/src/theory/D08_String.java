@@ -135,18 +135,5 @@ public class D08_String {
 		"Hello, world!".getChars(7, 12, buffer, 10);
 		System.out.println(buffer);
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

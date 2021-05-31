@@ -1,6 +1,7 @@
 package myinterface;
 
 public interface Remocon {
+	
 	String power();
 	
 	String up(int num);
@@ -8,4 +9,5 @@ public interface Remocon {
 	String down(int num);
 	
 	String change();
+	
 }

@@ -30,8 +30,3 @@ class OrangeTree implements CanClick, CanPunch {
 	public void punch() {
 	}
 }
-
-
-
-
-

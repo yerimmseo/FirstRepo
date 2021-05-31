@@ -4,7 +4,6 @@ public class ToothBrush extends Item {
 
 	int clean;
 	
-	
 	public ToothBrush(String name, int price) {
 		super (name, price);
 		clean = 80;

@@ -98,7 +98,6 @@ public class Dice {
 		}
 	}
 	
-	
 	public static void main(String[] args) {
 		
 		Dice dice = new Dice();
@@ -109,4 +108,5 @@ public class Dice {
 		dice.checkYacht();
 		dice.chechBigStraight();
 	}
+	
 }

@@ -14,9 +14,11 @@ public class Candy extends Item {
 	}
 	
 	public static void main(String[] args) {
+		
 		new Candy("¸ñÄµµğ", 1500).info();
 		
 		new Candy("¸ñÄµµğ", 1500).use();
+		
 	}
 	
 }

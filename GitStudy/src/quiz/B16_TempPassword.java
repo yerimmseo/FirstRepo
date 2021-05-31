@@ -36,6 +36,7 @@ public class B16_TempPassword {
 				break;
 			}
 		}
+		
 		System.out.println("임시 비밀번호 : " + tempPassword.toString());
 		
 	}

@@ -60,13 +60,3 @@ public class B05_TypeCasting {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-

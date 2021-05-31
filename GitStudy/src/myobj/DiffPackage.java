@@ -13,6 +13,7 @@ public class DiffPackage {
 		System.out.println(protected_var);
 		System.out.println(private_var);
 	}
+	
 	void default_method() {}
 	protected void protected_method() {}
 	private void private_method() {}

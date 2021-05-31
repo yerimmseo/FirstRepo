@@ -40,14 +40,5 @@ public class B03_Scanner {
 		System.out.println("첫 번째 값과 두 번째 값을 곱하면 " + a * b + "입니다.");
 		
 	}
+	
 }
-
-
-
-
-
-
-
-
-
-

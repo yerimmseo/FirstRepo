@@ -51,13 +51,3 @@ public static Fruit2 getBanana() {
 abstract class Fruit2 {
 	abstract void eat();
 }
-
-
-
-
-
-
-
-
-
-

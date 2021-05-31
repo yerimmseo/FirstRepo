@@ -88,7 +88,6 @@ public class E08_Buffered {
 			e.printStackTrace();
 		}
 		
-		
 	}
 
 }

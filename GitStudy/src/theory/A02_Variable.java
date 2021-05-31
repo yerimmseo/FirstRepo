@@ -53,13 +53,3 @@ public class A02_Variable {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-

@@ -14,7 +14,6 @@ public abstract class Student {
 	int sno;
 	int kor;
 	int eng;
-	
 	Random ran;
 	
 	public Student(int sno) {

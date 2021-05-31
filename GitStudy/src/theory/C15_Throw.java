@@ -97,18 +97,3 @@ class NotOddException extends RuntimeException {
 		super("홀수가 아니어서 발생하는 예외");
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -17,14 +17,6 @@ public class D10_args {
 			System.out.println(args[i]);
 		}
 		
-		
-		
 	}
+	
 }
-
-
-
-
-
-
-

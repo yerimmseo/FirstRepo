@@ -103,12 +103,3 @@ public class D07_checkValidSocialNumber {
 		}	
 	}
 }
-
-
-
-
-
-
-
-
-

@@ -339,18 +339,7 @@ public class E07_JSON {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-

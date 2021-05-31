@@ -13,7 +13,6 @@ public class B11_Reverse {
 		for (int i = user.length() - 1; i >= 0; i--) {
 			System.out.print(user.charAt(i));
 		}
-		
 	}
 
 }

@@ -33,7 +33,6 @@ public class B08_MonthToSeason {
 		}
 		
 		System.out.printf("%d월은 [%s]입니다.\n", month, season);
-		
 	}
 	
 }

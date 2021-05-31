@@ -103,12 +103,3 @@ class Fruit extends SubMaterial {}
 // 소스를 상속받은 클래스들
 class Salsa extends Sauce {}
 class Balsamic extends Sauce {}
-
-
-
-
-
-
-
-
-
