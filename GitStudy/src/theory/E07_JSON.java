@@ -222,7 +222,7 @@ public class E07_JSON {
 		StringBuilder sb = new StringBuilder();
 		
 		// FileReader in = new FileReader(jsonFile, Charset.forname("UTF-8"))
-		try (FileReader in = new FileReader(jsonFile, Charset.forName("UTF-8"));) {
+		try (FileReader in = new FileReader(jsonFile)) {
 			
 			char[] buff = new char[2048];
 			
@@ -334,7 +334,7 @@ public class E07_JSON {
 		
 		// try auto close (Autocloseable 인터페이스가 구현되어 있어야함)
 		// new FileWriter(jsonFile, utf8) 1.8안됨 버전 차이인가요 -> 버전차이였다고 한다 집15버전
-		try (FileWriter out = new FileWriter(jsonFile, utf8)) {
+		try (FileWriter out = new FileWriter(jsonFile)) {
 			out.append(sb);
 		} catch (IOException e) {
 			e.printStackTrace();
