@@ -10,7 +10,7 @@ public class A03_JdbcTransaction {
 		String sql = "UPDATE fruits SET fcolor='BLUE' WHERE fname='Kiwi'";
 		
 		try (
-				Connection conn = DBConnecter.getConnection();
+				Connection conn = DBConnector.getConnection();
 				PreparedStatement pstmt = conn.prepareStatement(sql);
 		) {
 			// JDBC로 처음 연결을 생성하면 기본적으로 AutoCommit이 활성화 되어있다.
@@ -28,7 +28,6 @@ public class A03_JdbcTransaction {
 				conn.rollback();
 				System.out.println("롤백 완료.");
 			}
-			
 			
 		} catch (SQLException e) {
 			e.printStackTrace();

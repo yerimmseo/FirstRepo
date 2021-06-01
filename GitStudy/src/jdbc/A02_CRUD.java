@@ -19,7 +19,7 @@ public class A02_CRUD {
 		String sql2 = "SELECT * FROM fruits";
 		
 		try (
-				Connection conn = DBConnecter.getConnection();
+				Connection conn = DBConnector.getConnection();
 				PreparedStatement pstmt = conn.prepareStatement(sql);
 				PreparedStatement pstmt2 = conn.prepareStatement(sql2);
 		) {

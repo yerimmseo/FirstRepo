@@ -9,7 +9,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class DBConnecter {
+public class DBConnector {
 	
 	// 파일에 있는 내용을 읽어서 연결을 생성해보세요
 	static String driverName;
@@ -33,7 +33,7 @@ public class DBConnecter {
 		}
 	}
 	
-	static Connection getConnection() {
+	public static Connection getConnection() {
 		try {
 			return DriverManager.getConnection(url, id, password);
 		} catch (SQLException e) {
