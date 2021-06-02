@@ -39,10 +39,10 @@ public class A04_DESC {
 //			}
 			
 			while (rs.next()) {
-				Employee e = new Employee(rs);
-				
-				System.out.print(e.getFirst_name());
-				System.out.println(" " + e.getLast_name());
+//				Employee e = new Employee(rs);
+//				
+//				System.out.print(e.getFirst_name());
+//				System.out.println(" " + e.getLast_name());
 			}
 			
 		} catch (SQLException e) {

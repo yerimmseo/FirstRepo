@@ -15,15 +15,12 @@ public class Employee {
 	private String job_id;
 	private int salary;
 	private int commission_pct;
-	private int manager_id;
-	private int department_id;
+	private Employee manager;
+	private Department department;
 	
-	public Employee(ResultSet rs) throws SQLException {
-		employee_id = rs.getInt("employee_id");
-		first_name = rs.getString("first_name");
-		last_name = rs.getString("last_name");
-		hire_date = rs.getDate("hire_date");
-	}
+//	public Employee(ResultSet rs) {
+//		// 현재 클래스의 정보와 rs의 메타데이터를 참조하여 존재하는 필드만 채우는 코드
+//	}
 	
 	public int getEmployee_id() {
 		return employee_id;
@@ -79,17 +76,21 @@ public class Employee {
 	public void setCommission_pct(int commission_pct) {
 		this.commission_pct = commission_pct;
 	}
-	public int getManager_id() {
-		return manager_id;
+
+	public Employee getManager() {
+		return manager;
 	}
-	public void setManager_id(int manager_id) {
-		this.manager_id = manager_id;
+
+	public void setManager(Employee manager) {
+		this.manager = manager;
 	}
-	public int getDepartment_id() {
-		return department_id;
+
+	public Department getDepartment() {
+		return department;
 	}
-	public void setDepartment_id(int department_id) {
-		this.department_id = department_id;
+
+	public void setDepartment(Department department) {
+		this.department = department;
 	}
-	
+		
 }
