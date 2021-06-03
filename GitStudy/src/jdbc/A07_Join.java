@@ -15,7 +15,6 @@ import com.zaxxer.hikari.HikariDataSource;
 import jdbc.model.Department;
 import jdbc.model.Employee;
 import jdbc.model.Location;
-import sun.security.jca.GetInstance.Instance;
 
 public class A07_Join {
 

@@ -11,7 +11,7 @@ import com.zaxxer.hikari.HikariDataSource;
 
 public class A06_FileBasedHikariCP {
 
-	// 메뉴얼의 File based 방식으로 HikariCP 구동해보기
+	// 매뉴얼의 File based 방식으로 HikariCP 구동해보기
 	public static void main(String[] args) {
 		
 		HikariConfig config = new HikariConfig("./some/path/hikari.properties");
